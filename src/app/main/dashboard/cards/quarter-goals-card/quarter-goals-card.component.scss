@@ -1,0 +1,83 @@
+:host {
+}
+
+@import url(//fonts.googleapis.com/css?family=Montserrat);
+@import url(//fonts.googleapis.com/css?family=Sanchez);
+.quarterCard{
+  background: #FFFFFF;
+  box-shadow: 0px 4px 4px #D3E1DA;
+  border-radius: 10px;
+  width: 265px;
+  height: 310px;
+  padding: 19px 23px 26px 27px;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.subcontainer{
+display: flex;
+  flex-direction: column;
+}
+.numberonatiner{
+display: flex;
+  flex-direction: column;
+}
+
+
+.title{
+  font-family: Montserrat;
+  font-style: normal;font-weight: 600;
+  font-size: 22px;
+    color: #2DBDB1;
+}
+.dateallocation{
+  font-family: Montserrat;
+  font-weight: 300;
+  font-size: 18px;
+  color: #2DBDB1;
+}
+.one{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  color: #2DBDB1;
+}
+.two{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  color: #2DBDB1;
+}
+.three{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  color: #2DBDB1;
+}
+.sub1{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #5A5A5A;
+}
+.sub2{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #5A5A5A;
+}
+.sub3{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 154%;
+  color: #5A5A5A;
+}
